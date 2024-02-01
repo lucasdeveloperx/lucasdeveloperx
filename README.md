@@ -5,11 +5,12 @@
 
 <h2>Habilidades</h2>
 <p align="center">
-  <img alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-9fcf00?style=flat-square&logo=Java&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=Git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white">
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
 <h2>Um pouco mais...</h2>
