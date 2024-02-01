@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="left">
 
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
-<p align="center">Olá, eu sou um desenvolvedor HTML, CSS, JS e Java e com experiência em Bukkit. Atualmente, cursando no <a href="https://ebaconline.com.br/">Escola britanica de artes criativas e tecnologia
+<p align="center">Olá, eu sou um desenvolvedor HTML, CSS, JS e Java e com experiência em Bukkit. Atualmente, cursando na <a href="https://ebaconline.com.br/">Escola britanica de artes criativas e tecnologia
 
 <h2>Habilidades</h2>
 <p align="center">
