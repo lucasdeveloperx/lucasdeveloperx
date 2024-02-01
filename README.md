@@ -21,9 +21,4 @@
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
   
-- [LeafPlugins.com](https://leafplugins.com): Meu site onde disponibilizo meus plugins e recursos para a comunidade Minecraft.
-- [Aulas](https://github.com/fleivinho/Aulas): Repositório dedicado aos vídeos que posto [no meu canal do Youtube](https://www.youtube.com/@fleivinho)
-- [miscellaneous](https://github.com/fleivinho/miscellaneous): Uma API versátil para recursos diversos que podem ser úteis em projetos Spigot.
-- [DatabaseExample](https://github.com/fleivinho/DatabaseExample): Um projeto com exemplo de uso de banco de dados e cache e código limpo.
-  
-</p>
+- [Lkdeveloper.com](https://lkdeveloper.netlify.app/): Meu site aonde ofereço serviços de desenolvovimento de software
