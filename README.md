@@ -15,8 +15,8 @@
 
 - Conhecimento em Java e programação orientada a objetos
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
-- Conhecimento em bancos de dados relacionais e SQL
-- Conhecimento básico de Git e Github
+- Conhecimento em Html e Css
+- Front End
  
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
