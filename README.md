@@ -5,7 +5,7 @@
 
 <h2>Habilidades</h2>
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
+  <img alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-9fcf00?style=flat-square&logo=Java&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=Git&logoColor=white">
