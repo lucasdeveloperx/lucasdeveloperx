@@ -21,4 +21,4 @@
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
   
-- [Lkdeveloper.com](https://lkdeveloper.netlify.app/): Meu site aonde ofereço serviços de desenolvovimento de software
+- [Lkdeveloper.com](https://lkdeveloper.store/): Meu site aonde ofereço serviços de desenolvovimento de software
