@@ -18,8 +18,8 @@
 - Conhecimento em Java e programação orientada a objetos
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
 - Conhecimento em HTML, CSS, JS e PHP e estudando MySQL
-- Front End
- 
+- Junior em Back End
+- Medium em Front End
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
   
