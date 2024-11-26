@@ -18,8 +18,3 @@
 - Familiarity with Bukkit and Minecraft plugin development
 - Expertise in HTML, CSS, JS, PHP, and currently learning MySQL
 - Experience in both Back-End & Front-End Development
-
-## 🚀 Featured Projects
-<p align="center">
-  
-- [Lkdeveloper.com](https://lkdeveloper.store/): My website where I offer software development services.
