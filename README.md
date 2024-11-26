@@ -1,5 +1,3 @@
-![Profile Image](https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png)
-
 # Welcome to my profile! 👋
 <p align="center">Hello, I am a developer specializing in HTML, CSS, JS, PHP, and Java, with experience in Bukkit. Currently, I am studying at the <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia</a></p>
 
