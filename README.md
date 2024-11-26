@@ -1,26 +1,27 @@
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="left">
+![Profile Image](https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png)
 
-<h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
-<p align="center">Olá, eu sou um desenvolvedor HTML, CSS, JS PHP e Java e com experiência em Bukkit. Atualmente, cursando na <a href="https://ebaconline.com.br/">Escola britanica de artes criativas e tecnologia
+# Welcome to my profile! 👋
+<p align="center">Hello, I am a developer specializing in HTML, CSS, JS, PHP, and Java, with experience in Bukkit. Currently, I am studying at the <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia</a></p>
 
-<h2>Habilidades</h2>
+## Skills
 <p align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-php" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-sql" height="50" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-java" height="50" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  <img align="center" alt="MySQL" height="50" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Java" height="50" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
 </p>
 
-<h2>Um pouco mais...</h2>
+## A little more about me...
 
-- Conhecimento em Java e programação orientada a objetos
-- Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
-- Conhecimento em HTML, CSS, JS e PHP e estudando MySQL
-- Back End & Front End Development
-<h2>🚀 Projetos em destaque</h2>
+- Knowledge of Java and Object-Oriented Programming
+- Familiarity with Bukkit and Minecraft plugin development
+- Expertise in HTML, CSS, JS, PHP, and currently learning MySQL
+- Experience in both Back-End & Front-End Development
+
+## 🚀 Featured Projects
 <p align="center">
   
-- [Lkdeveloper.com](https://lkdeveloper.store/): Meu site aonde ofereço serviços de desenolvovimento de software
+- [Lkdeveloper.com](https://lkdeveloper.store/): My website where I offer software development services.
