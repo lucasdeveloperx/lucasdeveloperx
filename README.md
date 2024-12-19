@@ -1,5 +1,5 @@
 # Welcome to my profile! 👋
-<p align="center">Hello, I am a developer specializing in HTML, CSS, JS, PHP, and Java, with experience in Bukkit. Currently, I am studying at the <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia</a></p>
+<p>Hello, I am a developer specializing in HTML, CSS, JS, PHP, and Java, with experience in Bukkit. Currently, I am studying at the <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia</a></p>
 
 ## Skills
 <p align="center">
