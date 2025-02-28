@@ -6,7 +6,7 @@ Studying at [Escola Britânica de Artes Criativas e Tecnologia](https://ebaconli
 ## Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,java" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=php,java,mysql" alt="Skills">
 </p>  
 
 ## About me  
