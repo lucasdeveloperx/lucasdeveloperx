@@ -8,5 +8,5 @@
 ## Langs <img src="https://img.shields.io/badge/💻-000000?style=for-the-badge&logoColor=white" alt="💻">
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,java,mysql" alt="Skills">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logoColor=white" alt="PHP">
 </p>  
