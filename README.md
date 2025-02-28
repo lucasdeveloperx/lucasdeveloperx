@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Programador%20Back--End-000000?style=for-the-badge&logoColor=white" alt="Programador Back-End">
 </p>
 
-## Langs 
+## Langs <img src="https://img.shields.io/badge/💻-000000?style=for-the-badge&logoColor=white" alt="💻">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,java,mysql" alt="Skills">
