@@ -1,5 +1,3 @@
-# Lkdeveloper  
-
 ## About me  
 
 <p align="left">
