@@ -9,4 +9,5 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logoColor=white" alt="JAVA">
 </p>  
