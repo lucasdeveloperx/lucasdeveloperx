@@ -10,9 +10,3 @@ Studying at [Escola Britânica de Artes Criativas e Tecnologia](https://ebaconli
 - Java, OOP  
 - Bukkit & Minecraft plugin development  
 - Full-Stack development  
-
-## Contact  
-
-[GitHub](https://github.com/seu-usuario)  
-[LinkedIn](https://linkedin.com/in/seu-usuario)  
-[Email](mailto:seu-email@example.com)  
