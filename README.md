@@ -5,8 +5,12 @@ Studying at [Escola Britânica de Artes Criativas e Tecnologia](https://ebaconli
 
 ## Skills  
 
-- HTML, CSS, JavaScript  
-- PHP, MySQL  
-- Java, OOP  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java" alt="Skills">
+</p>  
+
+## About me  
+
+- Java & OOP  
 - Bukkit & Minecraft plugin development  
 - Full-Stack development  
